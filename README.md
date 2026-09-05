@@ -49,7 +49,7 @@ Add your build to the catalog via pull request. Keep entries factual, concise, a
 
 | Specimen            | Builder                                  | What It Is                            | Why It Exists               |
 | :------------------ | :--------------------------------------- | :------------------------------------ | :-------------------------- |
-| _Your project here_ | [`@sqlver`](https://github.com/xsqlverx) | One sentence describing the artifact. | The flawed logic behind it. |
+| _project name will go here :(_ | [`@sqlver`](https://github.com/xsqlverx) | . | . |
 
 <!-- Add completed projects above this comment. Keep each entry short and link the specimen name to its repository when possible. -->
 
